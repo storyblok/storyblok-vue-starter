@@ -4,7 +4,7 @@
       <h2 class="text-6xl font-bold font-serif text-primary mb-4">
         {{ blok.headline }}
       </h2>
-      <img :src="blok.image.filename" :alt="blok.image.alt" class="w-full" />
+      <img v-if="blok.image" :src="blok.image.filename" :alt="blok.image.alt" class="w-full" />
     </div>
   </div>
 </template>
