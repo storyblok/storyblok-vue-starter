@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is no longer maintained.
+> For a current Vue + Storyblok starter, use [blueprint-core-vue](https://github.com/storyblok/blueprint-core-vue).
+
 # Storyblok Vue Starter
 
 This is the example repository for building a blog with Storyblok.
